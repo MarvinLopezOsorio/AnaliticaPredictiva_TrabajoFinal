@@ -2,8 +2,7 @@
 # AnaliticaPredictiva_TrabajoFinal
 El estudio se basó en un conjunto de datos generales, encuestas de hábitos de estudio y resultados de análisis psicopedagógicos de los estudiantes del primer ciclo de carreras de ingeniería en una universidad de El Salvador.
 # Integrantes
-Marvin López Osorio
-Eduardo Rivera
+Marvin López Osorio y Eduardo Rivera
 
 # Objetivo
 Predecir si un estudiante reprobará el primer ciclo universitario mediante un modelo de clasificación basado en variables psicopedagógicas, conductuales (malos hábitos) y generales.
